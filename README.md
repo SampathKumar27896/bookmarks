@@ -1,2 +1,2 @@
 # bookmarks
-A simple book mark manager
+A simple bookmark manager
